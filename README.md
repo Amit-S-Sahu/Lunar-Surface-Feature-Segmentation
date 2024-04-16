@@ -1,6 +1,7 @@
 # Lunar Surface Feature Segmentation
 
-    This project utilizes Convolutional Neural Networks (CNN) and the UNet architecture to accurately segment real images of the moon, distinguishing various components such as small rocks, large rocks, sky, and ground.
+    This project utilizes Convolutional Neural Networks (CNN) and the UNet architecture to accurately segment real images of the moon, 
+    distinguishing various components such as small rocks, large rocks, sky, and ground.
 
 ## Features:
 
